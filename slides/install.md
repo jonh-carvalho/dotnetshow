@@ -1,6 +1,5 @@
 # Roteiro de Instalação e Configuração .NET 8 LTS + ASP.NET Web API no VS Code
 
-**Guia Completo - Setembro 2025**  
 *Do zero ao primeiro projeto Web API funcionando*
 
 ---

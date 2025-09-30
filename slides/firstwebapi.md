@@ -1,7 +1,6 @@
 # Guia Prático: Criando sua Primeira Web API com ASP.NET Core
 
 **Documento Técnico - Desenvolvimento .NET**  
-*Versão 1.0 - Setembro 2025*
 
 ---
 
